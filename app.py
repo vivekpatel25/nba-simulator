@@ -5,7 +5,6 @@ import pandas as pd
 import random
 
 st.set_page_config(page_title="NBA Dream Matchup", layout="wide") 
-st.markdown("🕹️ Loading NBA Dream Matchup Simulator...")
 st.title("🏀 NBA Dream Matchup Simulator")
 
 st.markdown("""
